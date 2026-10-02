@@ -542,8 +542,16 @@ flutter run
 > ✅ **Checkpoint 2.1** รันแอปด้วยคำสั่ง `flutter run --dart-define=GEMINI_API_KEY=your_key` ถ่ายภาพหน้าจอ Debug Console และหน้า SnackBar ที่แสดงข้อความคำตอบจาก Gemini และอธิบายด้านล่าง ว่า `.timeout()` ที่ตั้งไว้กับ Gemini API (20 วินาที) ต่างจากที่ตั้งไว้กับ OpenWeather API ในสัปดาห์ที่แล้ว (10 วินาที) อย่างไร และทำไมจึงต่างกัน (อ้างอิงบทหนังสือเรียนหัวข้อ 7.3)
 
 ```text
-บันทึกผลลัพธ์ที่นี่
+หน้า SnackBar
 ```
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/6c1643b8-94d0-40e5-8875-d4d3f521e0d8" />
+
+```text
+หน้าจอ Debug Console
+```
+<img width="1311" height="825" alt="image" src="https://github.com/user-attachments/assets/2b4286f6-db3b-48f1-86fb-f96af41ce807" />
+
+
 
 ---
 
