@@ -505,6 +505,9 @@ flutter run
 บันทึกรูปผลลัพธ์ที่นี่
 ```
 
+<img width="1917" height="862" alt="image" src="https://github.com/user-attachments/assets/212fe9ca-1242-44e1-a3b0-47139ff79a98" />
+
+
 ### ขั้นตอนที่ 1.2: ทดลองเปิดใช้ Structured Output ใน AI Studio
 
 ในแผงตั้งค่าฝั่งขวาของ Google AI Studio เปิดตัวเลือก **Structured Output** เลือกที่ Visual Editor แล้วกำหนด Schema ให้ตรงกับ Field `title`, `category`, `description` ตามที่ใช้ใน Prompt (เลือกประเภทเป็น String ทั้งหมด) รันอีกครั้งด้วยภาพเดิม
