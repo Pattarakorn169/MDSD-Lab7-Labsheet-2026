@@ -1001,8 +1001,15 @@ class ListingDraft {
 
 > ✅ **Checkpoint 5.1** ถ่ายภาพหน้าจอ 2 ภาพเทียบกัน คือ (ก) ค่าที่ AI แนะนำมาตอนแรก และ (ข) ค่าหลังจากคุณแก้ไขบางส่วนแล้วกดยืนยัน 
 ```text
-บันทึกผลลัพธ์ที่นี่
+(ก) ค่าที่ AI แนะนำมาตอนแรก
 ```
+
+<img width="450" height="998" alt="image" src="https://github.com/user-attachments/assets/dfd96b5f-5a2c-4627-8d36-af98e3d446c4" />
+
+```text
+(ข) ค่าหลังจากคุณแก้ไขบางส่วนแล้วกดยืนยัน 
+```
+<img width="453" height="741" alt="image" src="https://github.com/user-attachments/assets/5a7c8289-afa2-4e64-b1c4-7b28e3d7edf7" />
 
 ---
 
